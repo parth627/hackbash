@@ -1,1 +1,3 @@
 # hackbash
+
+Researcher professors and mentors are specifically needed when it comes to implementing the ideas and working on major projects. Similarly,researchers need students with common interests. To support the knowledge exchange , we wish to create a portal where students and mentors with interest and intelligence in a particular arena can connect and conduct a particular research together. Our portal would make a perfect platform to share their counselling without knowing who the other person really is. We also aim to get students to avail internship offers at an early stage in their college years.There are many organizations out there willing to recruit budding engineers and we will connect them.
